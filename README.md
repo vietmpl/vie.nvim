@@ -1,4 +1,7 @@
 # vie.nvim
+<div align="center" >
+    <img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/0fd21f26-4ee1-4404-9209-2264f947659c" />
+</div>
 
 Supercharge your Vie experience in Neovim!
 
